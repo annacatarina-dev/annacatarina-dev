@@ -1,5 +1,8 @@
-## Hi there 👋
+✨Ana Catarina
 
+Olá! Sejam bem vindas(os) ao meu perfil no GitHub 💕 Atualmente estou cursando análise e desenvolvimento de sistemas na Unifip! Em breve começarei a postar conteúdos para auxiliar que está também nessa jornada⚡
+
+👩‍💻 Técnica em Informática - IFPB 📚 Análise e Desenvolvimente de Sistemas - Unfip --> 2/5
 <!--
 **annacatarina-dev/annacatarina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
