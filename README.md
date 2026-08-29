@@ -1,8 +1,10 @@
 ✨Ana Catarina
 
-Olá! Sejam bem vindas(os) ao meu perfil no GitHub 💕 Atualmente estou cursando análise e desenvolvimento de sistemas na Unifip! Em breve começarei a postar conteúdos para auxiliar que está também nessa jornada⚡
+Olá! Sejam bem vindas(os) ao meu perfil no GitHub 💕 Atualmente estou cursando análise e desenvolvimento de sistemas na UNIFIP! Em breve começarei a postar alguns conteúdos para auxiliar que também está nessa jornada⚡
 
-👩‍💻 Técnica em Informática - IFPB 📚 Análise e Desenvolvimente de Sistemas - Unfip --> 2/5
+👩‍💻 Técnica em Informática - IFPB
+👩‍💻 Análise e Desenvolvimento de Sistemas - UNIFIP 2/5
+😄 Pronomes: ela/dela
 <!--
 **annacatarina-dev/annacatarina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
