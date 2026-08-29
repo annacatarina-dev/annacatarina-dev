@@ -2,9 +2,9 @@
 
 Olá! Sejam bem vindas(os) ao meu perfil no GitHub 💕 Atualmente estou cursando análise e desenvolvimento de sistemas na UNIFIP! Em breve começarei a postar alguns conteúdos para auxiliar que também está nessa jornada⚡
 
-👩‍💻 Técnica em Informática - IFPB
-👩‍💻 Análise e Desenvolvimento de Sistemas - UNIFIP 2/5
-😄 Pronomes: ela/dela
+👩‍💻 Técnica em Informática - IFPB <br/>
+👩‍💻 Análise e Desenvolvimento de Sistemas - UNIFIP 2/5 <br/>
+😄 Pronomes: ela/dela <br/>
 <!--
 **annacatarina-dev/annacatarina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
