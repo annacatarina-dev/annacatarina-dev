@@ -5,6 +5,7 @@ Olá! Sejam bem vindas(os) ao meu perfil no GitHub 💕 Atualmente estou cursand
 👩‍💻 Técnica em Informática - IFPB <br/>
 👩‍💻 Análise e Desenvolvimento de Sistemas - UNIFIP 2/5 <br/>
 😄 Pronomes: ela/dela <br/>
+🌍 Nacionalidade: Brasileira <br/>
 <!--
 **annacatarina-dev/annacatarina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
