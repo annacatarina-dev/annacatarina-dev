@@ -1,6 +1,6 @@
 ✨Ana Catarina
 
-Olá! Sejam bem vindos(as) ao meu perfil no GitHub 💕 Atualmente estou cursando análise e desenvolvimento de sistemas na UNIFIP! Em breve começarei a postar alguns conteúdos para auxiliar que também está nessa jornada⚡
+Olá! Sejam bem vindos(as) ao meu perfil no GitHub 💕 Atualmente estou cursando análise e desenvolvimento de sistemas na UNIFIP! Em breve começarei a postar alguns conteúdos para auxiliar quem também está nessa jornada⚡
 
 👩‍💻 Técnica em Informática - IFPB <br/>
 👩‍💻 Análise e Desenvolvimento de Sistemas - UNIFIP 2/5 <br/>
