@@ -2,9 +2,9 @@
 
 ### Bem vindo(a) ao meu perfil GitHub 😊
 
-- Atualmente estou cursando Análise e Desenvolvimento de Sistema na UNIFIP!
-- Sou técnica em Informática pelo IFPB, que foi meu primeiro contanto com essa área💕
-- Você pode entrar em contato comigo pelo [Email](catarina.virgolino@gmail.com).
+- Atualmente estou cursando Análise e Desenvolvimento de Sistema na [UNIFIP](https://www.instagram.com/unifipoficial/)!
+- Sou técnica em Informática pelo [IFPB](https://www.instagram.com/ifpbcampusitaporanga/), que foi meu primeiro contanto com essa área💕
+- Você pode entrar em contato comigo pelo <a href="mailto:catarina.virgolino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>.
 
 ### 💡 Projetos que estou trabalhando/já trabalhei
 
