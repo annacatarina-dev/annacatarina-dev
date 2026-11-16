@@ -1,21 +1,26 @@
-✨Ana Catarina
+# Ana Catarina✨
 
-Olá! Sejam bem vindos(as) ao meu perfil no GitHub 💕 Atualmente estou cursando análise e desenvolvimento de sistemas na UNIFIP! Em breve começarei a postar alguns conteúdos para auxiliar quem também está nessa jornada⚡
+### Bem vindo(a) ao meu perfil GitHub 😊
 
-👩‍💻 Técnica em Informática - IFPB <br/>
-👩‍💻 Análise e Desenvolvimento de Sistemas - UNIFIP 2/5 <br/>
-😄 Pronomes: ela/dela <br/>
-🌍 Nacionalidade: Brasileira <br/>
-<!--
-**annacatarina-dev/annacatarina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estou cursando Análise e Desenvolvimento de Sistema na UNIFIP!
+- Sou técnica em Informática pelo IFPB, que foi meu primeiro contanto com essa área💕
+- Você pode entrar em contato comigo pelo [Email](catarina.virgolino@gmail.com).
 
-Here are some ideas to get you started:
+### 💡 Projetos que estou trabalhando/já trabalhei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+**DevCampus** — plataforma de prática, exercícios e discussões acadêmicas (entre outras coisas) da área de TI para os alunos da UNIFIP!
+
+**Emprestaê** — plataforma de aluguel para ferramentas!
+
+### Linguagens e Ferramentas que utilizo/estou aprendendo 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,git,java" />
+</p>
+
+### Contatos:
+
+<div>
+  <a href="(https://www.instagram.com/katrina__bernad/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="catarina: catarina.virgolino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
