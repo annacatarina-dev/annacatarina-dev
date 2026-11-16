@@ -8,7 +8,7 @@
 
 ### 💡 Projetos que estou trabalhando/já trabalhei
 
-**DevCampus** — plataforma de prática, exercícios e discussões acadêmicas (entre outras coisas) da área de TI para os alunos da UNIFIP📚
+**DevCampus** — plataforma de estudos, exercícios, compartilhamento de dúvidas e discussões acadêmicas (entre outras coisas) da área de TI para os alunos da UNIFIP📚
 
 **Emprestaê** — plataforma de aluguel para ferramentas e equipamentos🛠️
 
