@@ -4,8 +4,7 @@
 
 - Atualmente estou cursando Análise e Desenvolvimento de Sistema na [UNIFIP](https://www.instagram.com/unifipoficial/)!
 - Sou técnica em Informática pelo [IFPB](https://www.instagram.com/ifpbcampusitaporanga/), que foi meu primeiro contanto com essa área💕
-- Você pode entrar em contato comigo pelo <a href="mailto:catarina.virgolino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+- Gosto de ler, moda, culinária, natureza e games!!
 ### 💡 Projetos que estou trabalhando/já trabalhei
 
 **DevCampus** — plataforma de estudos, exercícios, compartilhamento de dúvidas e discussões acadêmicas (entre outras coisas) da área de TI para os alunos da UNIFIP📚
